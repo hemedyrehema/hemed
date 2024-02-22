@@ -1,0 +1,1 @@
+This is a text example to make changes to github via the terminal
